@@ -1,0 +1,17 @@
+{
+  "fps": 29.97,
+  "frame_count": 75,
+  "detected_frames": 75,
+  "video_start_s": 0.5,
+  "video_stop_s": 3.0,
+  "lowest_frame": 73,
+  "lowest_time": 2.4357691024357693,
+  "raw_min_m": -0.8739225268363953,
+  "raw_max_m": -0.7373141646385193,
+  "corrected_min_m": 0.0,
+  "corrected_max_m": 0.0,
+  "raw_rms_m": 0.8301323937672598,
+  "corrected_rms_m": 0.0,
+  "clamped_joints": 0,
+  "clamped_frames": 0
+}
